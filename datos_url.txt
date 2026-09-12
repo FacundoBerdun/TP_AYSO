@@ -1,0 +1,4 @@
+HOME_URL="https://www.debian.org/"
+PRETTY_NAME="Debian GNU/Linux 12 (bookworm)"
+NAME="Debian GNU/Linux"
+VERSION_CODENAME=bookworm
